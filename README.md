@@ -1,7 +1,9 @@
-plane
+Plane
 =====
 
-See link : http://thecodersbreakfast.net/index.php?post/2013/02/18/Coding-challenge-maman-les-petits-avions
+Solution pour le Coding challenge : maman les petits avions
+
+Voir le lien : http://thecodersbreakfast.net/index.php?post/2013/02/18/Coding-challenge-maman-les-petits-avions
 
 Aujourd'hui, je vous propose de jouer aux petits avions, et de vérifier quel prototype vole le mieux.
 

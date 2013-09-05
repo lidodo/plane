@@ -9,7 +9,7 @@ public class SyracuseUtil {
 		return compute(new ArrayList<Integer>(),term);
 	}
 
-	public static List<Integer> compute(List<Integer> list, int term){
+	private static List<Integer> compute(List<Integer> list, int term){
 		list.add(term);
 		if(term !=1){
 			if(term % 2 == 0){

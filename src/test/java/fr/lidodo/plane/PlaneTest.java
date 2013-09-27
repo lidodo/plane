@@ -20,13 +20,13 @@ public class PlaneTest {
 
 
 	@Test
-	public void testEnterprise(){
+	public void testNewPlane_WithNameEnterprise_Expected1057(){
 		Plane actual = new Plane("Enterprise");
 		assertEquals(1057,actual.getInitialNumber());
 	}
 
 	@Test
-	public void testFauconMillenium(){
+	public void testNewPlane_WithNameFauconMillenium_Expected1544(){
 		Plane actual = new Plane("FauconMillenium");
 		assertEquals(1544,actual.getInitialNumber());
 	}
